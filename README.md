@@ -1,5 +1,5 @@
 # Ubiquiti UniFi-Video-Controller (NVR) -- Docker Container
-Debian 7, UniFi-Video-Controller v3.9.1
+Debian 7, UniFi-Video-Controller v3.9.12
 
 # Setup
 This container requires the following two persistant data directories mapped;
